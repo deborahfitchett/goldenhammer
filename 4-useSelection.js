@@ -1,0 +1,1 @@
+javascript:(function(){var%20s=document.selection?document.selection.createRange().text:window.getSelection?window.getSelection().toString():document.getSelection?document.getSelection():'';if(s){location.href='https://doi.org/'+s;}else{alert('You%20need%20to%20select%20a%20DOI%20first.');}})();

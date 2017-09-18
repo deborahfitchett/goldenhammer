@@ -1,0 +1,1 @@
+javascript:(function(){var%20s=document.selection?document.selection.createRange().text:window.getSelection?window.getSelection().toString():document.getSelection?document.getSelection():'';if(s){var%20w=window.open('','_blank','scrollbars=yes,height=600,width=800');w.location='http://www.maoridictionary.co.nz/search?keywords='+s;}})();

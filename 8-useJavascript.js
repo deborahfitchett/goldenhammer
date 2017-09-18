@@ -1,0 +1,1 @@
+javascript:(function(){var%20script=document.createElement('script');script.id='YourScriptID';script.src='http://example.com/your.js';document.body.appendChild(script);})();

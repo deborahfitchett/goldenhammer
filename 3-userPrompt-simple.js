@@ -1,0 +1,1 @@
+javascript:(function(){var field=prompt('MARC field?');if(field){location.href='http://www.oclc.org/bibformats/en/'+field.charAt(0)+'xx/'+field+'.html';}})();

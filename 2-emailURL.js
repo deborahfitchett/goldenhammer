@@ -1,0 +1,1 @@
+javascript:(function(){location.href='mailto:me@example.com?body='+location.href+'&subject='+document.title;})();

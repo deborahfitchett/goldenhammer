@@ -1,0 +1,1 @@
+javascript:(function(){var%20style=document.createElement('link');style.rel='stylesheet';style.type='text/css';style.href='http://example.com/your.css';document.getElementsByTagName('head')[0].appendChild(style);})();
